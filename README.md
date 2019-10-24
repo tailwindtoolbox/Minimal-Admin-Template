@@ -1,6 +1,3 @@
-# Minimal-Admin-Template
-Tailwind CSS Starter Template - Minimal Admin Dashboard Template
-
 # [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Minimal Admin Dashboard Template](https://www.tailwindtoolbox.com/templates/minimal-admin-template)
 
 [Minimal Admin Dashboard Template](https://www.tailwindtoolbox.com/templates/admin-template) is an open source, minimalistic admin dashboard template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
