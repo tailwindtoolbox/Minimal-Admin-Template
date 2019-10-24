@@ -5,7 +5,8 @@ Tailwind CSS Starter Template - Minimal Admin Dashboard Template
 
 [Minimal Admin Dashboard Template](https://www.tailwindtoolbox.com/templates/admin-template) is an open source, minimalistic admin dashboard template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
-This template is based on this amazing Dribble shot by [Gregoire Vella](https://dribbble.com/gregoirevella) -> [Marketing Dashboard](https://dribbble.com/shots/6531694-Marketing-Dashboard)
+* This template is based on this amazing Dribble shot by [Gregoire Vella](https://dribbble.com/gregoirevella) -> [Marketing Dashboard](https://dribbble.com/shots/6531694-Marketing-Dashboard)
+* The charts are powered by [Chartist.js](https://gionkunz.github.io/chartist-js/) - amazing charting library!
 
 ![Minimal Admin Template](https://www.tailwindtoolbox.com/templates/minimal-admin-template.png)
 
